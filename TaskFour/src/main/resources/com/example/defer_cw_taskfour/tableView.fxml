@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="611.0" prefWidth="863.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.defer_cw_taskfour.VaccinationCenter">
+   <children>
+      <TableView layoutX="4.0" layoutY="5.0" prefHeight="602.0" prefWidth="856.0">
+        <columns>
+          <TableColumn fx:id="colTokenNumber" prefWidth="100.79998636245728" text="Token Number" />
+          <TableColumn fx:id="colFirstName" prefWidth="125.59998321533203" text="Patient First Name" />
+            <TableColumn minWidth="0.0" prefWidth="0.0" text="C2" />
+            <TableColumn fx:id="colSurname" prefWidth="121.60003662109375" text="Patient Surname" />
+            <TableColumn fx:id="colAge" prefWidth="84.79998779296875" text="Patient Age" />
+            <TableColumn fx:id="colCity" minWidth="8.00006103515625" prefWidth="95.19998168945312" text="City" />
+            <TableColumn minWidth="0.0" prefWidth="0.0" text="C2" />
+            <TableColumn fx:id="colNICNumber" prefWidth="106.39996337890625" text="NIC Number" />
+            <TableColumn fx:id="colPassportNum" prefWidth="106.39996337890625" text="Passport Number" />
+            <TableColumn fx:id="colVaccinatedStatus" prefWidth="113.60003662109375" text="Vaccinated Or Not" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>

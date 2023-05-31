@@ -1,0 +1,118 @@
+
+`	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(„Ÿ¿·şÿÿÿÿ
+`	java:S112~"FDefine and throw a dedicated exception instead of using a generic one.(Äğ•ôúÿÿÿÿ
+\	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(²Ú©’
+\	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(²Ú©’
+\	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(²Ú©’
+\	java:S112˜"FDefine and throw a dedicated exception instead of using a generic one.(²Ú©’
+\	java:S112â"FDefine and throw a dedicated exception instead of using a generic one.(÷º‹İ
+a	java:S112Â"FDefine and throw a dedicated exception instead of using a generic one.(Äğ•ôúÿÿÿÿ
+
+java:S1192ğ"sDefine a constant instead of duplicating this literal "Only enter integers according to the related booth" 4 times.(•’ğáüÿÿÿÿ
+}
+java:S1192È"gDefine a constant instead of duplicating this literal "Enter booth number (0-5) or 6 to stop:" 3 times.(ŸËÅI
+v
+java:S1192Í"_Define a constant instead of duplicating this literal "Enter the correct booth Number" 4 times.(²Ú©’
+]
+java:S1192¾"GDefine a constant instead of duplicating this literal "Sheet1" 5 times.(Á‹¶
+
+java:S1192Ş"yDefine a constant instead of duplicating this literal "If You want to store data --> press 1
+If not --> press 2" 3 times.(Éáä
+s
+java:S1192]"XDefine a constant instead of duplicating this literal "Enter your preference: " 3 times.(Ê¸Áşÿÿÿÿ
+s
+java:S3008"XRename this field "ServiceCenter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úÓ¾Ÿşÿÿÿÿ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(•²Õ¿
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(–Ğ¦
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ƒ¹¨„
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(’àÆ…
+H
+java:S6126%"2Replace this String concatenation with Text block.(’àÆ…
+M	java:S106Q"9Replace this use of System.out or System.err by a logger.(ŠĞ‡}
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Ê¸Áşÿÿÿÿ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(²ŒàÔüÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(»¹Æùÿÿÿÿ
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(©Èìïıÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ‘Ùã
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+R
+java:S2696š"6Make the enclosing method "static" or remove this set.(çüüşÿÿÿÿ
+R
+java:S2696Ÿ"6Make the enclosing method "static" or remove this set.(‰Ä³úÿÿÿÿ
+R
+java:S2696£"6Make the enclosing method "static" or remove this set.(‰Ä³úÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(ÛƒÅşÿÿÿÿ
+O	java:S106·"9Replace this use of System.out or System.err by a logger.(¨üÛü
+n
+java:S3776º"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(‹ü€ÿıÿÿÿÿ
+M
+java:S2696¼"6Make the enclosing method "static" or remove this set.(Ã‰öÖ
+O	java:S106Ã"9Replace this use of System.out or System.err by a logger.(áğ¯ë
+N	java:S106È"9Replace this use of System.out or System.err by a logger.(ŸËÅI
+L
+java:S2696Ë"6Make the enclosing method "static" or remove this set.(ÊËæ
+O	java:S106Ö"9Replace this use of System.out or System.err by a logger.(Š›
+O	java:S106Û"9Replace this use of System.out or System.err by a logger.(¢²¤ˆ
+R
+java:S2696İ"6Make the enclosing method "static" or remove this set.(šÚ“ûÿÿÿÿ
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(Éáä
+O	java:S106ç"9Replace this use of System.out or System.err by a logger.(»¸Ë
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(ãì´È
+T	java:S106ğ"9Replace this use of System.out or System.err by a logger.(•’ğáüÿÿÿÿ
+T	java:S106õ"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+n
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¥İÚ±úÿÿÿÿ
+M
+java:S2696ü"6Make the enclosing method "static" or remove this set.(Ã‰öÖ
+N	java:S106ÿ"9Replace this use of System.out or System.err by a logger.(ŸËÅI
+L
+java:S2696‚"6Make the enclosing method "static" or remove this set.(ÊËæ
+O	java:S106Œ"9Replace this use of System.out or System.err by a logger.(à¼£Ú
+O	java:S106"9Replace this use of System.out or System.err by a logger.(Éáä
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(•’ğáüÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(Ìşªü
+O	java:S106Ê"9Replace this use of System.out or System.err by a logger.(ğå
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S
+java:S1117Ñ"<Rename "boothNum" which hides the field declared at line 17.(–´‘
+O	java:S106ì"9Replace this use of System.out or System.err by a logger.(Ìşªü
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(ıÖ×àüÿÿÿÿ
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S
+java:S1117ö"<Rename "boothNum" which hides the field declared at line 17.(™Ú‰¦
+O	java:S106ø"9Replace this use of System.out or System.err by a logger.(¼Œ’
+T	java:S106"9Replace this use of System.out or System.err by a logger.(•’ğáüÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ÏÂ‡‰ùÿÿÿÿ
+M
+java:S2696’"6Make the enclosing method "static" or remove this set.(Ã‰öÖ
+N	java:S106”"9Replace this use of System.out or System.err by a logger.(ŸËÅI
+L
+java:S2696–"6Make the enclosing method "static" or remove this set.(ÊËæ
+v	java:S131§"YComplete cases by adding the missing enum constants or add a default case to this switch.(Î¹§À8õÚÕµ0
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(â´â·øÿÿÿÿ
+O	java:S106²"9Replace this use of System.out or System.err by a logger.(©óİì
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(ÜÃ›Àùÿÿÿÿ
+T	java:S106¹"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(•’ğáüÿÿÿÿ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+T	java:S106Î"9Replace this use of System.out or System.err by a logger.(´ö¸åüÿÿÿÿ
+i
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ğ·¯À
+O	java:S106Ş"9Replace this use of System.out or System.err by a logger.(«ççó
+O	java:S106å"9Replace this use of System.out or System.err by a logger.(Éáä
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(øòÑÙÿÿÿÿÿ
+T	java:S106ñ"9Replace this use of System.out or System.err by a logger.(É³·ıÿÿÿÿÿ
+T	java:S106÷"9Replace this use of System.out or System.err by a logger.(ÅÕ¶‡úÿÿÿÿ
+T	java:S106ü"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(âŞàá
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(ğ‹±ûıÿÿÿÿ
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(©Èìïıÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(Ñ‘Ùã
+T	java:S106È"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
